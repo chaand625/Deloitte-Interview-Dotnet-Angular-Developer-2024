@@ -5,9 +5,9 @@
 A brief introduction to your experience applying for the .NET and Angular Full Stack Developer role at Deloitte.
 
 - **Position**: .NET and Angular Full Stack Developer
-- **Interview Mode**: [Online/Onsite]
+- **Interview Mode**: Online
 - **Round**: 1
-- **Duration**: [Duration of Round 1]
+- **Duration**: Zoom
 - **Focus Areas**: .NET, SQL, Angular
 
 ## Round 1: Technical Interview
@@ -38,7 +38,7 @@ A brief introduction to your experience applying for the .NET and Angular Full S
   - **Directive**:
     - Task: "Write a directive in Angular."
   - **Component Interaction**:
-    - Question: "How can components interact with each other?"
+    - Question: "What are the different ways components interact with each other?"
   - **RxJS - switchMap vs. mergeMap**:
     - Question: "Explain the difference between switchMap and mergeMap. In what scenarios would you use each?"
   - **mergeMap vs. forkJoin**:
