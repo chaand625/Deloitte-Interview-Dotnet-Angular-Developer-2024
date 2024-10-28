@@ -46,13 +46,4 @@ A brief introduction to your experience applying for the .NET and Angular Full S
   - **Types of Subjects**:
     - Question: "Can you describe the different types of subjects in RxJS?"
 
-## Key Takeaways
-- Summary of what stood out about Deloitte’s technical screening
-- Reflections on any challenging questions or areas you plan to review further
-- Any specific advice for candidates preparing for .NET, SQL, and Angular-focused interviews at Deloitte
-
-## Preparation Resources
-- **Books**: *Clean Code* by Robert C. Martin for .NET practices
-- **Online Courses**: [Mention courses if any, e.g., Pluralsight courses on .NET and Angular]
-- **Practice Sites**: LeetCode and SQLZoo for hands-on practice with SQL
 
