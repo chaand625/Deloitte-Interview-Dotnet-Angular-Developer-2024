@@ -7,14 +7,14 @@ A brief introduction to your experience applying for the .NET and Angular Full S
 - **Position**: .NET and Angular Full Stack Developer
 - **Interview Mode**: Online
 - **Round**: 1
-- **Duration**: Zoom
+- **Duration**: 1hr
 - **Focus Areas**: .NET, SQL, Angular
 
 ## Round 1: Technical Interview
 
 ### Overview
-- **Interviewer**: [Specify if it was a panel or single interviewer]
-- **Platform**: [Platform used if online, e.g., Microsoft Teams]
+- **Interviewer**:  Single Interviewer
+- **Platform**: Zoom
 - **Type**: Technical Interview
 
 ### Topics and Questions
