@@ -82,6 +82,9 @@ A continuation of my experience applying for the .NET and Angular Full Stack Dev
     - Scenario: "You have page1 (personal data) and page2 (professional data), with save functionality on the last page. How would you communicate this data across pages? How would you save it?"
 
 - **EF Core and Stored Procedures**:
+  - **Transactions** :
+    - Question: "How do you make sure that parts of the data personal and professional are all saved as a whole or not saved at all in EFCore?"
+   
   - **Stored Procedures**:
     - Question: "Are you using EF Core? How do you communicate with stored procedures in EF Core?"
     - Follow-up: "How do you handle multiple selects in stored procedures?" (I guessed that the last select will typically return results, but its wrong.)
